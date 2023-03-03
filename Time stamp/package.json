@@ -1,0 +1,13 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "this project is about time stamp ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server":"nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
